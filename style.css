@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+/* .nav{
+    background-color: rgb(255,230,25);
+    
+} */
+.user{
+    width: 10px;
+    height: 20px;
+}
+.new{
+    font-size: 12px;
+}
+.book{
+    width: 200px;
+}
